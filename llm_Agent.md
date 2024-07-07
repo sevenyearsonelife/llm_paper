@@ -5,7 +5,8 @@
 [[2308.11432] A Survey on Large Language Model based Autonomous Agents (arxiv.org)](https://arxiv.org/abs/2308.11432)
 > 有一个对应的github项目
 
-
+[[2307.07924] ChatDev: Communicative Agents for Software Development (arxiv.org)](https://arxiv.org/abs/2307.07924)
+> 吴恩达推荐的
 
 # github
 [andrewyng/translation-agent (github.com)](https://github.com/andrewyng/translation-agent)
