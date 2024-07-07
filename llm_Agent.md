@@ -30,6 +30,9 @@ https://arxiv.org/abs/2303.11366
 # video
 [吴恩达分享：AI Agent 设计模式与展望_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rm41167zX/?vd_source=1781cc4e540cf27bcf0ed040e7626434)
 
+[吴恩达《构建你自己的数据库智能体|Building Your Own Database Agent》中英字幕_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1RD421M7xK/?spm_id_from=333.1007.tianma.6-3-21.click&vd_source=1781cc4e540cf27bcf0ed040e7626434)
+
+
 # linus
 现在github上出现了很多汇总论文的项目  
 李皓之前分享的提示词项目  
