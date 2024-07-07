@@ -36,6 +36,12 @@ https://arxiv.org/abs/2303.11366
 
 
 [MoA智能体击败gpt4o！ollama本地配置开源大模型实现混合智能体，打造超越autogen和langchain的最强AI Agents！#moa #gpt_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19b421H7oU/?spm_id_from=333.1007.tianma.2-2-5.click&vd_source=1781cc4e540cf27bcf0ed040e7626434)
+> 特别牛逼的思路！我们现在有了这么多的开源小模型，如何发挥它们的能力呢？
+> 三个臭皮匠顶个诸葛亮！
+> 通过ollama在本地下载多个小参数模型
+
+
+
 
 
 # linus
