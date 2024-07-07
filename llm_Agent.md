@@ -27,6 +27,9 @@ https://arxiv.org/abs/2303.11366
 # doc
 [Hugging Muti Agent（二月学习） - Feishu Docs](https://deepwisdom.feishu.cn/wiki/MLILw0EdRiyiYRkJLgOcskyAnUh)
 
+# video
+[吴恩达分享：AI Agent 设计模式与展望_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rm41167zX/?vd_source=1781cc4e540cf27bcf0ed040e7626434)
+
 # linus
 现在github上出现了很多汇总论文的项目  
 李皓之前分享的提示词项目  
