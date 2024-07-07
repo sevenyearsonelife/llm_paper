@@ -35,6 +35,9 @@ https://arxiv.org/abs/2303.11366
 > 以前还会好奇，openai是如何保证数据分析的准确性。原来是通过agent这种设计范式实现了类gpt5的效果！
 
 
+[MoA智能体击败gpt4o！ollama本地配置开源大模型实现混合智能体，打造超越autogen和langchain的最强AI Agents！#moa #gpt_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19b421H7oU/?spm_id_from=333.1007.tianma.2-2-5.click&vd_source=1781cc4e540cf27bcf0ed040e7626434)
+
+
 # linus
 现在github上出现了很多汇总论文的项目  
 李皓之前分享的提示词项目  
