@@ -32,7 +32,7 @@ https://arxiv.org/abs/2303.11366
 
 [吴恩达《构建你自己的数据库智能体|Building Your Own Database Agent》中英字幕_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1RD421M7xK/?spm_id_from=333.1007.tianma.6-3-21.click&vd_source=1781cc4e540cf27bcf0ed040e7626434)
 > openai推出的数据分析插件，本质上就是一个数据处理agent！！！
-
+> 以前还会好奇，openai是如何保证数据分析的准确性。原来是通过agent这种设计范式实现了类gpt5的效果！
 
 
 # linus
