@@ -14,4 +14,4 @@
 [好贵！GraphRAG好确实好，就是有点费Token_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hi421h7Vp/?spm_id_from=333.1007.tianma.9-4-34.click&vd_source=1781cc4e540cf27bcf0ed040e7626434)
 
 
-
+[2024首发！斯坦福吴恩达《使用LlamaIndex构建主动式RAG#Building Agentic RAG with LlamaIndex》最新项目中英字幕_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tw4m1q7PC/?spm_id_from=333.788.recommend_more_video.0&vd_source=1781cc4e540cf27bcf0ed040e7626434)
