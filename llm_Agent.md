@@ -8,6 +8,10 @@
 [[2307.07924] ChatDev: Communicative Agents for Software Development (arxiv.org)](https://arxiv.org/abs/2307.07924)
 > 吴恩达推荐的
 
+https://arxiv.org/abs/2303.17651        
+
+
+
 # github
 [andrewyng/translation-agent (github.com)](https://github.com/andrewyng/translation-agent)
 
