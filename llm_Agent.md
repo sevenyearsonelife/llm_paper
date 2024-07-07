@@ -31,7 +31,7 @@ https://arxiv.org/abs/2303.11366
 [吴恩达分享：AI Agent 设计模式与展望_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rm41167zX/?vd_source=1781cc4e540cf27bcf0ed040e7626434)
 
 [吴恩达《构建你自己的数据库智能体|Building Your Own Database Agent》中英字幕_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1RD421M7xK/?spm_id_from=333.1007.tianma.6-3-21.click&vd_source=1781cc4e540cf27bcf0ed040e7626434)
-> openai退出的数据分析插件，本质上就是一个数据处理agent！！！
+> openai推出的数据分析插件，本质上就是一个数据处理agent！！！
 
 
 
