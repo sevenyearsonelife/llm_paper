@@ -8,10 +8,13 @@
 [[2307.07924] ChatDev: Communicative Agents for Software Development (arxiv.org)](https://arxiv.org/abs/2307.07924)
 > 吴恩达推荐的
 
-https://arxiv.org/abs/2303.17651
+[[2406.04692] Mixture-of-Agents Enhances Large Language Model Capabilities (arxiv.org)](https://arxiv.org/abs/2406.04692)
+> 多个小模型组成的agent
 
-https://arxiv.org/abs/2303.11366
+[[2303.17651] Self-Refine: Iterative Refinement with Self-Feedback (arxiv.org)](https://arxiv.org/abs/2303.17651)
 
+
+[[2303.11366] Reflexion: Language Agents with Verbal Reinforcement Learning (arxiv.org)](https://arxiv.org/abs/2303.11366)
 
 
 # github
