@@ -13,3 +13,5 @@
 [⭐LangGPT 结构化提示词 - Feishu Docs](https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe)
 
 [【LLMs + 自动优化Prompt】APE、APO、OPRO、PE2、LongPO、BPO、EVOPROMPT、PromptAgent、IPC_llm prompt优化 数据-CSDN博客](https://blog.csdn.net/Arachis_X/article/details/136849943)
+
+https://www.promptingguide.ai/techniques/ape
