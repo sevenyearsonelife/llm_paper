@@ -32,5 +32,15 @@ https://www.youtube.com/watch?v=8OJC21T2SL4
 > 文本分割的5个级别
 
 
+https://arxiv.org/abs/2312.06648
+> 基于命题的检索
+
+# blog
+https://docs.llamaindex.ai/en/stable/examples/node_parsers/semantic_chunking/
+> 语义检索
+
+https://templates.langchain.com/new?integration_name=propositional-retrieval
+> 命题检索
+
 # MTEB
 https://huggingface.co/spaces/mteb/leaderboard
