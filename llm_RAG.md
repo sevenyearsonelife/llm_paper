@@ -17,6 +17,10 @@
 [[2407.01219] Searching for Best Practices in Retrieval-Augmented Generation (arxiv.org)](https://arxiv.org/abs/2407.01219)
 >论文主要研究了 RAG 技术的最佳实践方法，从 RAG 整体工作流、每个步骤的不同方法选择、实验对比方法，来论证 RAG 过程的影响因素，如何找到最佳实践。
 
+
+https://arxiv.org/abs/2401.05856
+
+
 # video
 [好贵！GraphRAG好确实好，就是有点费Token_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hi421h7Vp/?spm_id_from=333.1007.tianma.9-4-34.click&vd_source=1781cc4e540cf27bcf0ed040e7626434)
 
