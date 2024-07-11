@@ -49,9 +49,12 @@ https://python.langchain.com/v0.1/docs/modules/data_connection/document_transfor
 https://templates.langchain.com/new?integration_name=propositional-retrieval
 > 命题检索
 
-
 https://www.53ai.com/news/qianyanjishu/2024062131746.html
 > 介绍了多种文本块切割方法
+
+https://aibard123.com/digest/2024/0326/RAG%E7%B3%BB%E5%88%9705%E5%9F%BA%E4%BA%8E%E8%AF%AD%E4%B9%89%E7%9A%84Chunk%E5%88%86%E5%89%B2/
+> 介绍了基于语义的文本块切割方法
+
 
 # MTEB
 https://huggingface.co/spaces/mteb/leaderboard
