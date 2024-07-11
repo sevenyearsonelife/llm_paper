@@ -35,6 +35,10 @@ https://www.youtube.com/watch?v=8OJC21T2SL4
 https://arxiv.org/abs/2312.06648
 > 基于命题的检索
 
+https://arxiv.org/abs/2401.05856
+> 检索增强生成系统工程中的七个失败点
+
+
 # blog
 https://docs.llamaindex.ai/en/stable/examples/node_parsers/semantic_chunking/
 > 语义检索
