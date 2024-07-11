@@ -41,7 +41,10 @@ https://arxiv.org/abs/2401.05856
 
 # blog
 https://docs.llamaindex.ai/en/stable/examples/node_parsers/semantic_chunking/
-> 语义检索
+> 语义分割
+
+https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/semantic-chunker/
+> 语义分割
 
 https://templates.langchain.com/new?integration_name=propositional-retrieval
 > 命题检索
