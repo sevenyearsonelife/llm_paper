@@ -49,5 +49,9 @@ https://python.langchain.com/v0.1/docs/modules/data_connection/document_transfor
 https://templates.langchain.com/new?integration_name=propositional-retrieval
 > 命题检索
 
+
+https://www.53ai.com/news/qianyanjishu/2024062131746.html
+> 介绍了多种文本块切割方法
+
 # MTEB
 https://huggingface.co/spaces/mteb/leaderboard
