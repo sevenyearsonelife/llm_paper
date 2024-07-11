@@ -32,3 +32,5 @@ https://www.youtube.com/watch?v=8OJC21T2SL4
 > 文本分割的5个级别
 
 
+# MTEB
+https://huggingface.co/spaces/mteb/leaderboard
