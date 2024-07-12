@@ -5,6 +5,11 @@
 
 [[2312.10997] Retrieval-Augmented Generation for Large Language Models: A Survey (arxiv.org)](https://arxiv.org/abs/2312.10997)
 
+https://arxiv.org/abs/2312.06648
+> 基于命题的检索
+
+https://arxiv.org/abs/2401.05856
+> 检索增强生成系统工程中的七个失败点
 
 
 [[2401.05856] Seven Failure Points When Engineering a Retrieval Augmented Generation System (arxiv.org)](https://arxiv.org/abs/2401.05856)
@@ -32,11 +37,12 @@ https://www.youtube.com/watch?v=8OJC21T2SL4
 > 文本分割的5个级别
 
 
-https://arxiv.org/abs/2312.06648
-> 基于命题的检索
 
-https://arxiv.org/abs/2401.05856
-> 检索增强生成系统工程中的七个失败点
+
+
+https://www.youtube.com/watch?v=1a8bdIjjO1A
+> Haystack US 2023 - Roie Schwaber Cohen: Better Semantic Search with Hybrid (Sparse-Dense) Search
+
 
 
 # blog
