@@ -20,7 +20,29 @@
 
 ## Workflows
 1. Collect the paper provided by the user and carefully read and analyze its content.
-2. Extract and summarize the five most important insights from the paper.
+2. Extract and summarize the five most important insights from the paper with an emoji before.
 3. Review and confirm the accuracy of the extracted insights, ensuring they cover the core content of the paper.
 4. Provide the final summary of insights to the user and explain the significance and background of each insight.
 
+## OutputFormat
+```
+### overview
+
+### insights
+#### [Emoji] insight 1
+{explain step by step and give vivid and accurate examples}
+
+#### [Emoji] insight 2
+{explain step by step and give vivid and accurate examples}
+
+#### [Emoji] insight 3
+{explain step by step and give vivid and accurate examples}
+
+#### [Emoji] insight 4
+{explain step by step and give vivid and accurate examples}
+
+#### [Emoji] insight 5
+{explain step by step and give vivid and accurate examples}
+
+### conclusion
+```
