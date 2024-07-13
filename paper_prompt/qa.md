@@ -36,7 +36,7 @@
 ## OutputFormat
 ```
 ### Summary
-{Concise summary of the main text}
+{Concise summary of the paper}
 
 ### Questions and Answers
 #### Q1: Question 1
