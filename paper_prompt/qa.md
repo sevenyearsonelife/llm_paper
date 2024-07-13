@@ -26,10 +26,8 @@
    - Impact on the field of study.
    - Novelty and originality of the concepts.
 4. Provide structured answers to each question, including:
-   - A brief summary of the relevant section.
-   - The significance of the question.
    - A detailed explanation or answer.
-   - Implications or future research directions.
+   - A vivd and accurate example.
 5. Review and optimize the questions and answers for clarity, coherence, and completeness.
 6. Provide the final set of questions and answers to the user, with guidance on how to use this information effectively.
 
