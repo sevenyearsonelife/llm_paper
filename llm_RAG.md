@@ -62,5 +62,9 @@ https://aibard123.com/digest/2024/0326/RAG%E7%B3%BB%E5%88%9705%E5%9F%BA%E4%BA%8E
 > 介绍了基于语义的文本块切割方法
 
 
+https://sbert.net/examples/applications/retrieve_rerank/README.html
+> 极好的文章
+
+
 # MTEB
 https://huggingface.co/spaces/mteb/leaderboard
