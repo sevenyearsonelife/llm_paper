@@ -63,8 +63,13 @@ https://aibard123.com/digest/2024/0326/RAG%E7%B3%BB%E5%88%9705%E5%9F%BA%E4%BA%8E
 
 
 https://sbert.net/examples/applications/retrieve_rerank/README.html
-> 极好的文章
-
+> 极好的文章【从推荐的角度理解rag中的检索模块】
+> rag中的检索模块可以使用推荐系统中的【召回+排序】去做
+> 原子命题是一个非常好的idea，可以将其理解为淘宝上的一个个商品
+> 仅仅通过向量召回，这仅仅能保证弱相关性。通过query召回原子命题，然后通过精排模型排序，这才能保证强相关性
+> 在原子命题上添加metadata、summary和question，本质上在考虑更多的特征（精排模型需要更多的特征）
+> metadata和向量可以算作是两个召回通路
+> 最终我们需要微调一个精排模型，来计算query和chunk的相关性
 
 # MTEB
 https://huggingface.co/spaces/mteb/leaderboard
