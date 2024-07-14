@@ -25,11 +25,12 @@
 4. **Provide Summary**: Deliver the summarized insights with explanations and context.
 
 ## Output Format
-```
+
 ### Overview
 {Provide a brief summary of the paper's topic, objectives, and significance.}
 
 ### Insights
+```
 #### [Emoji] insight 1
 {Detailed explanation with examples}
 
