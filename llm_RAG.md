@@ -61,6 +61,8 @@ https://www.53ai.com/news/qianyanjishu/2024062131746.html
 https://aibard123.com/digest/2024/0326/RAG%E7%B3%BB%E5%88%9705%E5%9F%BA%E4%BA%8E%E8%AF%AD%E4%B9%89%E7%9A%84Chunk%E5%88%86%E5%89%B2/
 > 介绍了基于语义的文本块切割方法
 
+https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/
+> 值得深入研究！极好的文章
 https://arxiv.org/abs/1908.10084 
 > Sentence-BERT：使用 Siamese BERT 网络的句子嵌入 
 https://www.sbert.net/examples/applications/semantic-search/README.html
