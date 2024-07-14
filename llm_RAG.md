@@ -63,6 +63,8 @@ https://aibard123.com/digest/2024/0326/RAG%E7%B3%BB%E5%88%9705%E5%9F%BA%E4%BA%8E
 
 https://arxiv.org/abs/1908.10084 
 > Sentence-BERT：使用 Siamese BERT 网络的句子嵌入 
+https://www.sbert.net/examples/applications/semantic-search/README.html
+> 对称与非对称语义搜索
 https://cookbook.openai.com/examples/search_reranking_with_cross-encoders
 https://docs.llamaindex.ai/en/stable/examples/finetuning/cross_encoder_finetuning/cross_encoder_finetuning/
 https://www.sbert.net/examples/applications/cross-encoder/README.html
