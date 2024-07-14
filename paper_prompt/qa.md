@@ -39,12 +39,24 @@
 ### Questions and Answers
 #### Q1: Question 1
 A1: Answer 1
+
+---
+
 #### Q2: Question 2
 A2: Answer 2
+
+---
+
 #### Q3: Question 3
 A3: Answer 3
+
+---
+
 #### Q4: Question 4
 A4: Answer 4
+
+---
+ 
 #### Q5: Question 5
 A5: Answer 5
 ```
