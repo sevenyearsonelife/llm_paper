@@ -27,7 +27,7 @@
 ## Output Format
 ```
 ### Overview
-Provide a brief summary of the paper's topic, objectives, and significance.
+{Provide a brief summary of the paper's topic, objectives, and significance.}
 
 ### Insights
 #### [Emoji] insight 1
@@ -46,5 +46,5 @@ Provide a brief summary of the paper's topic, objectives, and significance.
 {Detailed explanation with examples}
 
 ### Conclusion
-Summarize the overall significance of the paper and its contributions to the field.
+{Summarize the overall significance of the paper and its contributions to the field.}
 ```
