@@ -84,5 +84,9 @@ https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings2/
 > metadata和向量可以算作是两个召回通路
 > 最终我们需要微调一个精排模型，来计算query和chunk的相关性
 
+https://neo4j.com/blog/graphrag-manifesto/
+> 图RAG的宣言
+
+
 # MTEB
 https://huggingface.co/spaces/mteb/leaderboard
