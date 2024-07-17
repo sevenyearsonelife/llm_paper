@@ -11,6 +11,8 @@ https://arxiv.org/abs/2312.06648
 https://arxiv.org/abs/2401.05856
 > 检索增强生成系统工程中的七个失败点
 
+https://arxiv.org/abs/2210.07316
+> MTEB: Massive Text Embedding Benchmark
 
 [[2401.05856] Seven Failure Points When Engineering a Retrieval Augmented Generation System (arxiv.org)](https://arxiv.org/abs/2401.05856)
 
