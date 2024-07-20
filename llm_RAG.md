@@ -89,6 +89,9 @@ https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings2/
 https://neo4j.com/blog/graphrag-manifesto/
 > 图RAG的宣言
 
+https://microsoft.github.io/graphrag/posts/query/0-global_search/
+
+
 
 # MTEB
 https://huggingface.co/spaces/mteb/leaderboard
