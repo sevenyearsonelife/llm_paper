@@ -32,7 +32,7 @@
 ---
 
 ### Insights
-```markdown
+```
 #### [Emoji] insight 1
 {Detailed explanation with examples}
 
