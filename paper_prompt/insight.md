@@ -29,6 +29,8 @@
 ### Overview
 {Provide a brief summary of the paper's topic, objectives, and significance.}
 
+---
+
 ### Insights
 ```markdown
 #### [Emoji] insight 1
