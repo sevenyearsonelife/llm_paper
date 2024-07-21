@@ -34,17 +34,27 @@
 #### [Emoji] insight 1
 {Detailed explanation with examples}
 
+---
+
 #### [Emoji] insight 2
 {Detailed explanation with examples}
+
+---
 
 #### [Emoji] insight 3
 {Detailed explanation with examples}
 
+---
+
 #### [Emoji] insight 4
 {Detailed explanation with examples}
 
+---
+
 #### [Emoji] insight 5
 {Detailed explanation with examples}
+
+---
 
 ### Conclusion
 {Summarize the overall significance of the paper and its contributions to the field.}
