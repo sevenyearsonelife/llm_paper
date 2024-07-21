@@ -32,7 +32,7 @@
 6. Provide the final set of questions and answers to the user, with guidance on how to use this information effectively.
 
 ## OutputFormat
-```
+```markdown
 ### Summary
 {Concise summary of the paper}
 
