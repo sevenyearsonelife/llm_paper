@@ -1,7 +1,6 @@
 # paper
 [[2404.16130] From Local to Global: A Graph RAG Approach to Query-Focused Summarization (arxiv.org)](https://arxiv.org/abs/2404.16130)
-> 这篇文章主要讲了
-
+> Graph RAG
 
 [[2312.10997] Retrieval-Augmented Generation for Large Language Models: A Survey (arxiv.org)](https://arxiv.org/abs/2312.10997)
 
